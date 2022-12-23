@@ -48,7 +48,7 @@ export const CardMini = (card) => {
                                 }}
                             >
                                 <Titul>
-                                    <h4>position: {position}</h4>
+                                   
                                     <TitleContainer>{title}</TitleContainer>
                                     <Status prioretty={cardData.prioretty}>
                                         {cardData.prioretty}
